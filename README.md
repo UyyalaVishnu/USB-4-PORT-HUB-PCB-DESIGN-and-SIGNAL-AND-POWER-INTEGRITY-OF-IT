@@ -76,11 +76,6 @@ Contributing
 - For changes to the design files, create a branch, update the Altium source files, and include a short commit message describing the change.
 - Do not edit binary `.PcbDoc`/.SchDoc files outside of Altium — use Altium's SVN/Git support or generate clear diffs/exports for review.
 
-License
--------
-
-This repository does not include a license file. Add a `LICENSE` if you intend to allow reuse or contributions.
-
 Contact
 -------
 
